@@ -8,7 +8,7 @@ https://github.com/coderdevin/SearXNG_QA_Hub/assets/133084249/db20b224-2758-40b3
 # Try it Here
 https://marketplace.smartcoder.ai/detail/1779697932621103106
 
-# Prmmpt
+# Prompt
 
 Given the JSON data related to {{specific_topic}}, please process and provide the following structured information:
 1. **Summary:**
